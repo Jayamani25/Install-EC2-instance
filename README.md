@@ -1,4 +1,5 @@
-1. Explore & Understand AWS
+# 1. Explore & Understand AWS
+
 Algorithm:
 
 Sign up for AWS
@@ -19,7 +20,7 @@ Install AWS CLI using pip install awscli or download from AWS.
 Configure AWS CLI using aws configure.
 Practice with AWS Documentation
 
-![1a 1](https://github.com/user-attachments/assets/4c6bcd6e-ecb8-462d-885a-059003922b44)
+![Screenshot 2025-03-19 160343](https://github.com/user-attachments/assets/edae0a14-ef01-4e00-94ef-c51ed9033e5d)
 
 Visit the AWS Documentation for hands-on learning.
 2. Create & Manage Amazon EC2 Instances
@@ -52,7 +53,8 @@ Click Launch and wait for initialization.
 Connect to the Instance
 
 Open Terminal/Command Prompt.
-![1a 2](https://github.com/user-attachments/assets/633e02c6-8517-4a32-96fe-fc9276215370)
+
+![Screenshot 2025-03-19 160402](https://github.com/user-attachments/assets/64db793c-7160-40b1-bd6f-2f8cd54487a8)
 
 Run ssh -i your-key.pem ec2-user@your-instance-ip.
 Result:
@@ -103,8 +105,9 @@ Launch OpenStack Dashboard
 Access Horizon Dashboard using http://<your-server-ip>/dashboard.
 Log in with admin credentials.
 Result:
-![1a 3](https://github.com/user-attachments/assets/d87b880d-9c18-4555-9408-5305fe921d59)
 
-![1a 4](https://github.com/user-attachments/assets/6abecf7b-5ddb-4329-a642-907af62b89a2)
+![Screenshot 2025-03-19 160433](https://github.com/user-attachments/assets/c74b31e6-e344-402b-90b0-c3861f48ad0c)
+
+![Screenshot 2025-03-19 160451](https://github.com/user-attachments/assets/c26a835a-8110-43a2-af78-e7843306a23f)
 
 Successfully installed OpenStack and accessed the Horizon Dashboard.
